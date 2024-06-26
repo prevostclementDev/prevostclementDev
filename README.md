@@ -6,7 +6,7 @@ Mon objectif professionnel est de travailler en tant que **développeur web** au
 
 Je suis motivé, sérieux et rigoureux dans mon travail. Je suis également capable de m'adapter rapidement aux nouvelles technologies et de travailler en équipe.
 
-<a href="https://app.daily.dev/realgreen409"><img src="https://api.daily.dev/devcards/v2/QtIuqRI2UY0CsmgLPOZpP.png?r=tic&type=wide" width="652" alt="clement prevost's Dev Card"/></a>
+<a href="https://app.daily.dev/realgreen409"><img src="https://api.daily.dev/devcards/v2/QtIuqRI2UY0CsmgLPOZpP.png?type=wide&r=fj9" width="652" alt="clement prevost's Dev Card"/></a>
 
 > *Me contacter : clementprevost45@gmail.com*
 > *Merci !* 
